@@ -1,0 +1,9 @@
+A simple version of Eng-Vi Dictionary written in C
+--------------------------------------------------
+FILE STRUCTURE
+--------------
+Convert (folder): contains files that preprocessing raw data
+glade (folder): contains files to build UI for application
+src (folder): application source codes
+AndViet.dat: Dictionary's data that has processed
+dictionary: run file 

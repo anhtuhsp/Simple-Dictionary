@@ -1,0 +1,15 @@
+#include <stdio.h>
+#include <string.h>
+#include <gtk/gtk.h>
+#include "bt/inc/btree.h"
+
+extern GtkBuilder *builder;
+extern GtkWidget  *window;
+extern GtkWidget  *displayEntry;
+extern GtkWidget  *inputEntry;
+extern BTA        *database;
+
+gboolean searchWord(GtkWidget *button, gpointer data){
+
+
+}
